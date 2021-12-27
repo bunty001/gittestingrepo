@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <link rel="shortcut icon" href="roundlogo.png">
 <link rel="icon" type="image" href="roundlogo.png">
-<title>Home page- Fitwel Industries LLP</title>
+<title>Home page- The leading manufacturers of pipe fittings in India - Fitwel Industries LLP</title>
 
 <meta name="description" content="Fitwel Industries LLP is a well-known Manufacturers & Supplier of Titanium Flanges in India & the steel market worldwide. One of our popular products is the Titanium Flanges, more in demand for high-quality production and standard size, specification & dimension."/>
 
